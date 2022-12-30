@@ -13,6 +13,8 @@ cmd_3 = "git commit -m" + commit_msg
 cmd_4 = "git push"
 # cmd_1 = ""
 
+# git pull origin main --allow-unrelated-histories
+
 # print("start")
 # os.system("cd..")
 # print("[CMD]",cmd_1)
