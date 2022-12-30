@@ -29,4 +29,4 @@ while (result != 0):
     print(result)
 
 print("END")
-time.sleep(10)
+time.sleep(100000)
