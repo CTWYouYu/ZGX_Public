@@ -22,6 +22,7 @@ os.system(cmd_2)
 print("[CMD]",cmd_3)
 os.system(cmd_3)
 print("[CMD]",cmd_4)
+result = 128
 while (result == 128):
     result = os.system(cmd_4)
     print(result)
