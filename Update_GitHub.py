@@ -10,7 +10,7 @@ if __name__ == '__main__':
     result = 128
     cmd_2 = "git add ."
     cmd_3 = "git commit -m" + commit_msg
-    cmd_4 = "git push -u origin main"
+    cmd_4 = "git push -u origin season"
     os.system(cmd_2)
     os.system(cmd_3)
 
